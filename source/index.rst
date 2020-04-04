@@ -8,8 +8,8 @@ Welcome to TaDoc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   contents
 
 
 Indices and tables

@@ -7,9 +7,11 @@ Welcome to TaDoc's documentation!
 =================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    contents
+   markdown
+   Java
 
 
 Indices and tables
